@@ -271,3 +271,6 @@ img {
 .campo__field--textarea {
     height: 20rem;
 }
+.nueva-clase{
+    color: rgb(255, 0, 0);
+}
